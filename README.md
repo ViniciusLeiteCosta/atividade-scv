@@ -8,5 +8,7 @@
   <tr>
     <td>Rodrigo</td>
     <td>Maceio</td>
+    <td>Vinicius</td>
+    <td>Garanhuns</td>
   </tr>
 </table>
